@@ -2,9 +2,9 @@
     "author": "Aljosa Hafner, CERIC-ERIC and Michele Manfredda, Elettra",
     "repository_url": "https://github.com/oasys-elettra-kit/theOWLS.git",
     "entries": [
-        {"name": "OasysWiser 2 script", "category": "test", "uploaded_by": "Michele Manfredda", "date": "19.04.2022", "url_script": "https://github.com/oasys-elettra-kit/theOWLS/raw/main/TheOwls/Scripts/Base/OasysWiser%202%20Wiser.py", "url_info": "New example script no. 1"},
-        {"name": "Wonderful script 1", "category": "test", "uploaded_by": "Michele Manfredda", "date": "19.04.2022", "url_script": "https://github.com/oasys-elettra-kit/theOWLS/raw/main/TheOwls/Scripts/Base/WonderfulScript1.py", "url_info": "Example script no. 1"},
-        {"name": "Wonderful script 2", "category": "test", "uploaded_by": "Michele Manfredda", "date": "19.04.2022", "url_script": "https://github.com/oasys-elettra-kit/theOWLS/raw/main/TheOwls/Scripts/Base/WonderfulScript2.py", "url_info": "Example script no. 2"}
+        {"name": "OasysWiser 2 script", "category": "test", "uploaded_by": "Michele Manfredda", "date": "19.04.2022", "url_script": "https://raw.githubusercontent.com/aljosahafner/WiserScripts/master/TheOwls/Scripts/Base/OasysWiser%202%20Wiser.py", "url_info": "New example script no. 1"},
+        {"name": "Wonderful script 1", "category": "test", "uploaded_by": "Michele Manfredda", "date": "19.04.2022", "url_script": "https://raw.githubusercontent.com/aljosahafner/WiserScripts/master/TheOwls/Scripts/Base/WonderfulScript1.py", "url_info": "Example script no. 1"},
+        {"name": "Wonderful script 2", "category": "test", "uploaded_by": "Michele Manfredda", "date": "19.04.2022", "url_script": "https://raw.githubusercontent.com/aljosahafner/WiserScripts/master/TheOwls/Scripts/Base/WonderfulScript2.py", "url_info": "Example script no. 2"}
         ]
     }
 }
